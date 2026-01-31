@@ -2,8 +2,7 @@
 
 **`Desenvolvedora de Software`**
 
-Olá! Me chamo Priscila Araújo, sou técnica em informática e estou cursando Engenharia da Computação. Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e desafios na área de desenvolvimento de software.
-
+Apaixonada por tecnologia e inovação, formada como Técnico em Informática e atualmente cursando Engenharia da Computação. Com uma sólida base técnica e experiência prática em desenvolvimento web, mobile e sistemas, estou sempre em busca de novos desafios para criar soluções inovadoras e impactar positivamente o mundo através da tecnologia.
 ---
 
 ### 🤖 Linguagens e Tecnologias
